@@ -4,6 +4,7 @@ I am an individual with a diverse educational background, having attained an MBA
 
 My proficiency in data handling, statistical analysis, programming, and domain-specific understanding positions me to contribute effectively to the field of data science. By unlocking valuable insights and driving impactful outcomes, I aspire to make a meaningful contribution to this evolving domain.
 
+![Git profile ](https://github-readme-streak-stats.herokuapp.com/?user=Bibek-9078)
 <!--
 **Bibek-9078/Bibek-9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Git profile ](https://github-readme-streak-stats.herokuapp.com/?user=Bibek-9078)
