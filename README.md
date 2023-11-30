@@ -7,6 +7,8 @@ My proficiency in data handling, statistical analysis, programming, and domain-s
 ![Git profile ](https://github-readme-streak-stats.herokuapp.com/?user=Bibek-9078)
 
 ![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek-9078)
+
+![hi](https://github-readme-stats.vercel.app/api?username=bibek-9078)
 <!--
 **Bibek-9078/Bibek-9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Git profile ](https://github-readme-streak-stats.herokuapp.com/?user=Bibek-9078)
