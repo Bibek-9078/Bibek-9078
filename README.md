@@ -1,5 +1,8 @@
 ### Hi there 👋
+# ABOUT ME
+I am an individual with a diverse educational background, having attained an MBA in System Management, another MBA in Marketing Management, and a completed BSc in Mathematics. This unique blend of skills and knowledge equips me with a solid foundation to delve into the dynamic world of data science. With expertise in system management, marketing strategies, and mathematical principles, I am well-prepared to leverage data-driven insights, unravel complex patterns, and make informed decisions within today's data-driven landscape.
 
+My proficiency in data handling, statistical analysis, programming, and domain-specific understanding positions me to contribute effectively to the field of data science. By unlocking valuable insights and driving impactful outcomes, I aspire to make a meaningful contribution to this evolving domain.
 <!--
 **Bibek-9078/Bibek-9078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
