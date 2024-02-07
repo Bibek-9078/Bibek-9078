@@ -1,4 +1,4 @@
-### Hi there 👋 Bibek kumar panda
+# Hi there 👋 Bibek kumar panda
 # ABOUT ME
 I am an individual with a diverse educational background, having attained an MBA in System Management, another MBA in Marketing Management, and a completed BSc in Mathematics. This unique blend of skills and knowledge equips me with a solid foundation to delve into the dynamic world of data science. With expertise in system management, marketing strategies, and mathematical principles, I am well-prepared to leverage data-driven insights, unravel complex patterns, and make informed decisions within today's data-driven landscape.
 
