@@ -20,6 +20,4 @@ I intern as a Computer Vision Labelling Engineer at Biddal Company. This role in
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bibek-kumar-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonali-thakur-443a37241" height="30" width="40" /></a>
-<a href="https://instagram.com/thakur_sonali21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_sonali21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sonalithakur196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonalithakur196" height="30" width="40" /></a>
 </p>
